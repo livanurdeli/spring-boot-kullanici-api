@@ -46,5 +46,5 @@ Ayarları Yapılandırın:src/main/resources/application.properties dosyasındak
 
 Uygulamayı Çalıştırın:Terminal üzerinden proje ana dizinine giderek şu komutu çalıştırın:mvn spring-boot:run
 
-### 📸 API Test Çıktısı (Preview)
+### 📸 API Test Çıktısı 
 <img width="1023" height="564" alt="image" src="https://github.com/user-attachments/assets/c1c80794-97c7-45aa-ae33-183e781cb0f6" />
